@@ -1,0 +1,26 @@
+h1 {
+    color:black
+}
+p {
+    font-size: 14px;
+}
+.show.button {
+    width: 30px;
+    height: 30px;
+    background-color: teal;
+    color: white;
+}
+.hide {
+    visibility: hidden;
+    position: absolute;
+}
+#image {
+    height: 50%;
+    width: 50%;
+}
+.show {
+    visibility: visible;
+}
+body {
+    background-color:lightblue
+}
